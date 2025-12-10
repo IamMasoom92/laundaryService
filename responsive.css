@@ -1,0 +1,31 @@
+@media (max-width: 500px){
+    nav{
+        display: none;
+    }
+    img{
+        margin-top: -90px;
+        width: 300px;
+    }
+    .navbar{
+        margin-top: 0;
+    }
+    .username{
+        padding: 10px 20px;
+        border-radius: 3px;
+        font-size: .75rem;
+    }
+    .upper-heading{
+        font-size: 1.8rem;
+        letter-spacing: 2.5px;
+        margin-top: -55px;
+    }
+    .hero-section{
+        flex-direction: column-reverse;
+    }
+    .para{
+        font-size: 1rem;
+    }
+    .button{
+        margin-top: 20px;
+    }
+}
